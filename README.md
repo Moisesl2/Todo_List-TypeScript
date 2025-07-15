@@ -1,5 +1,5 @@
-# 📍 Buscador de CEP
+# ✅ ToDo List com React e TypeScript
 
-Este é um aplicativo desenvolvido em React que permite ao usuário buscar informações de endereço a partir de um número de CEP.
+Este é um aplicativo de lista de tarefas (ToDo List) desenvolvido com React e TypeScript.
 
-Ao digitar um CEP válido, o sistema consulta a API do ViaCEP e retorna dados como rua, bairro, cidade, estado e complemento, facilitando o acesso rápido às informações de localização.
+Ele permite ao usuário adicionar, marcar como concluídas e remover tarefas, facilitando a organização e o gerenciamento de atividades do dia a dia.
